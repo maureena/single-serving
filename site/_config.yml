@@ -1,1 +1,5 @@
-host: 0.0.0.0
+title: Single Serving
+description: Cooking for one philosophy.
+baseurl: "" # leave empty if deploying to https://yourusername.github.io
+url: "https://maureena.github.io/single-serving" # replace with your actual GH Pages URL
+theme: mediumish
